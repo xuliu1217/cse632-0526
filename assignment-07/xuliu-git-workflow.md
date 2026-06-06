@@ -38,8 +38,7 @@ On branch feature/xuliu-assignment-07
 ## Pull Request URL
 Paste your pull request URL here.
 ## Latest Commit Hash
-
-Paste the full commit hash here.
+25adeb0b929bf59612f185f30e9372b590572510
 ## Merge Conflict Summary
 Briefly explain how you created and resolved the merge conflict.
 ## Reflection
