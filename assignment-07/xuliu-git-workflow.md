@@ -36,7 +36,7 @@ origin  git@github.com:xuliu1217/cse632-0526.git (push)
 On branch feature/xuliu-assignment-07
 
 ## Pull Request URL
-Paste your pull request URL here.
+https://github.com/xuliu1217/cse632-0526/pull/1
 ## Latest Commit Hash
 25adeb0b929bf59612f185f30e9372b590572510
 ## Merge Conflict Summary
